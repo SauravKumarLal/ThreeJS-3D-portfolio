@@ -24,7 +24,7 @@ const Hero = () => {
       <div className="w-full mx-auto flex flex-col sm:mt-36 mt-20 c-space gap-3">
         <p className="sm:text-3xl text-xl font-medium text-white text-center font-generalsans">
           Hey, I am Saurav!
-          <span className="waving-hand">👋</span>
+          <span className="waving-hand">👋</span> & I believe in 
           <p className="hero_tag text-gray_gradient">Code. Create. Conquer.</p>
         </p>
       </div>
